@@ -30,7 +30,7 @@ Output:  19-year olds should date somebody who is at least 16 years old.
 
 Another sample program run could be:
 
-Prompt + input: :  Enter your age: 22
+Prompt + input:  Enter your age: 22
 
 Output:  22-year olds should date somebody who is at least 18 years old.
 
@@ -42,7 +42,7 @@ There is a folk rule stating the number of pages you should read before giving u
 
 A sample run could be:
 
-Prompt + input :  Enter your age: 18
+Prompt + input:  Enter your age: 18
 
 Output:  18-year olds should read at least 82 pages before giving up on a book.
 
@@ -50,6 +50,6 @@ Another sample program run could be:
 
 Prompt + input :  Enter your age: 30
 
-Output :  30-year olds should read at least 70 pages before giving up on a book.
+Output:  30-year olds should read at least 70 pages before giving up on a book.
 
 Credit: Thanks to Jim Cohoon at The University of Virginia
